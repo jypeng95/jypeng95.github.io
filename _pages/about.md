@@ -2,24 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Postdoc @ MIT DMSE
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: Profile photo_PhD defence.jpg
+  image_circular: true # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
+
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Postdoctoral Associate in the [Department of Materials Science and Engineering (DMSE)](https://dmse.mit.edu/) at the [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/), supervised by [Prof. Rafael Gómez-Bombarelli](https://gomezbombarelli.mit.edu/). I obtained my Ph.D. from MIT DMSE in 2022, advised by [Prof. Yang Shao-Horn](https://www.rle.mit.edu/eel/). Before MIT, I graduated with a B.Sc. in Applied Physics from the [University of Science and Technology of China](https://en.ustc.edu.cn/) in 2017.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+During my Ph.D., I developed physics-driven guiding principles to design new catalysts for clean energy technologies that reduce carbon emissions, generate renewable electricity, and produce green chemicals and fuels. I combined various experimental techniques with first-principles simulations to uncover key material parameters governing the [catalytic activity](https://doi.org/10.1038/s41563-022-01199-0) and [intrinsic stability](https://doi.org/10.1021/acs.chemmater.2c01233) of transitional metal compounds, revealing physical rules underlying catalytic performance and highlighting unexplored directions for catalyst optimization.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+For my postdoc, I focus on [data-driven catalyst design and optimization for sustainability and decarbonization](https://doi.org/10.1038/s41578-022-00466-5). Specifically, I am interested in coupling machine learning with atomistic simulations to elucidate multi-dimensional materials design principles, predict key reaction energetics and dynamics, and accelerate catalyst discovery with co-optimized activity and stability.
