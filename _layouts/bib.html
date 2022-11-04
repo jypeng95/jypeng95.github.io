@@ -17,9 +17,9 @@
         <div class="col-sm-3" align="center">
             {%- if entry.img -%}
                 {% if entry.img contains '://' -%}
-                    <img class="img" src="{{ entry.img }}">
+                    <img class="img-fluid" src="{{ entry.img }}">
                 {%- else -%}
-                    <img class="img" src="{{ entry.img | prepend: '/assets/img/bib/' | relative_url }}" width="250">
+                    <img class="img-fluid" src="{{ entry.img | prepend: '/assets/img/bib/' | relative_url }}" width="250">
                 {%- endif -%}
             {%- endif -%}
         </div>
