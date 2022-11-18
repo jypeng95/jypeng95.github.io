@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 
-## invited talks
+### invited talks
 
 1. 01/2022, “Leveraging the Inductive Effect to Promote Oxygen Evolution on Oxides and Metal-Hydroxide-Organic Frameworks,” Bandarenka Group Seminar, **Department of Physics, Technical University of Munich** (virtual)
 2. 11/2021, “Leveraging the Inductive Effect to Promote Oxygen Evolution on Oxides and Metal-Hydroxide-Organic Frameworks,” Graduate Student Award Finalist Presentation, **2021 MRS Fall Meeting**, Materials Research
@@ -14,7 +14,7 @@ Society (virtual)
 
 <br>
 
-## contributed talks
+### contributed talks
 
 1. 11/2022, “Design Principles for Transition Metal Nitride Stability and Ammonia Generation in Acid,” **2022 MRS Fall Meeting**, Materials Research Society (Boston, MA, U.S.)
 2. 11/2022, “Stability Design Principles of Manganese-Based Oxides in Acid,” **2022 MRS Fall Meeting**, Materials Research Society (Boston, MA, U.S.)
@@ -31,7 +31,7 @@ Society (virtual)
 
 <br>
 
-## posters
+### posters
 
 1. 08/2019, “Bismuth Substituted Strontium Cobalt Perovskites for Catalyzing Oxygen Evolution,” **SUNCAT Summer Institute, SLAC National Accelerator Laboratory** (Menlo Park, CA, U.S.)
 2. 05/2019, “Bismuth Substituted Strontium Cobalt Perovskites for Catalyzing Oxygen Evolution,” **Accelerated Materials Design and Discovery Conference, Toyota Research Institute** (Boston, MA, U.S.)
