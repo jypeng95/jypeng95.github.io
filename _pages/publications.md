@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description:
 years: [in press, 2022, 2021, 2020, 2019, 2017]
 patentyears: [2021, 2019]
@@ -25,7 +25,7 @@ More information can be found at my <a href="https://scholar.google.com/citation
 
 ---
 
-## patents
+## Patents
 
 <div class="publications">
 

@@ -1,12 +1,12 @@
 ---
 layout: page
 permalink: /experience/
-title: experience
+title: Experience
 description:
 nav: true
 ---
 
-### selected honors and awards
+### Selected Honors and Awards
 
 * 2021, [**Graduate Student Award**](https://www.mrs.org/careers-advancement/awards/spring-awards/graduate-student-awards/past-recipients), Materials Research Society
 * 2016, **National Scholarship**, Ministry of Education, P.R. China
@@ -14,7 +14,7 @@ nav: true
 
 <br>
 
-### professional service
+### Professional Service
 
 * **Conferences**
   * 11/2022, **Session Chair**, Symposium "DS01: Modern Materials Thermodynamics," 2022 MRS Fall Meeting, Materials Research Society (Boston, MA, U.S.)
@@ -29,7 +29,7 @@ nav: true
 
 <br>
 
-### teaching and mentoring experience
+### Teaching and Mentoring Experience
 
 * **Teaching**
   * 2021, **Teaching Assistant**, (Graduate-Level) 2.625 Electrochemical Energy Conversion and Storage: Fundamentals, Materials, and Applications, Massachusetts Institute of Technology (MIT)
@@ -47,7 +47,7 @@ and fostering engagement and inclusivity) and conducted several micro-teaching s
 
 <br>
 
-### diversity, equity, and inclusion (DE&I)
+### Diversity, Equity, and Inclusion (DE&I)
 
 * **Service**
   * 2022–2023, [**Mentor, Rainbow Compass Mentorship Program**](https://lbgtq.mit.edu/rainbow-compass-mentorship-program), LBGTQ+ Services, MIT
@@ -64,7 +64,7 @@ and fostering engagement and inclusivity) and conducted several micro-teaching s
 
 <br>
 
-### funding experience
+### Funding Experience
 
 * **Lead Author**
   * 2019–Present, Proposals for awarded high-performance computing resources (e.g., NERSC, XSEDE, and ACCESS)
