@@ -40,7 +40,7 @@ nav: true
   * 2021, [**Participant, Kaufman Teaching Certificate Program**](https://tll.mit.edu/programming/grad-student-programming/kaufman-teaching-certificate-program), Teaching + Learning Lab, MIT
     * Received systematic training on evidence-based teaching (e.g., backward course design, active learning,
 and fostering engagement and inclusivity) and conducted several micro-teaching sessions.
-  * 2021, **Lead Organizer, Teaching Journal Club**, Electrochemical Energy Laboratory, MIT
+  * 2021, **Organizer, Teaching Journal Club**, Electrochemical Energy Laboratory, MIT
     * Presented key academic research literature on academic teaching and learning and led a group discussion on best practices for teaching strategies (e.g., active learning and attention to equity).
 * **Mentoring**
     * 2019–Present, **Mentor** to rising graduate and undergraduate students in research labs, Department of Materials Science and Engineering, MIT
@@ -59,12 +59,14 @@ and fostering engagement and inclusivity) and conducted several micro-teaching s
 * **Training**
   * 2021, [**Participant, Teaching for Belonging Workshop, Kaufman Teaching Certificate Program**](https://tll.mit.edu/programming/grad-student-programming/kaufman-teaching-certificate-program), Teaching + Learning Lab, MIT
     * Received systematic training on the five inclusive teaching pillars (i.e., structure, transparency, community, values, and growth) and best practices for fostering DE&I in teaching and learning activities.
-  * 2020, [**Lead Organizer, DE&I Journal Club and Group Value Statement**](https://www.rle.mit.edu/eel/diversity-updated), Electrochemical Energy Laboratory, MIT
+  * 2020, [**Organizer, DE&I Journal Club and Group Value Statement**](https://www.rle.mit.edu/eel/diversity-updated), Electrochemical Energy Laboratory, MIT
     * Presented key academic research literature on implicit bias and inequality in science and engineering, led a group discussion on promoting DE&I in academia (e.g., in student admission, faculty hiring, research evaluation, and publication practices), and drafted a value statement for the lab.
 
 <br>
 
 ### funding experience
 
-* 2019–Present, **Lead writer** of proposals for awarded high-performance computing resources (e.g., NERSC, XSEDE, and ACCESS)
-* 2020–Present, **Contributor** to proposals for awarded governmental grants (e.g., DOE) and industrial funding from U.S. and Japan
+* **Lead Author**
+  * 2019–Present, Proposals for awarded high-performance computing resources (e.g., NERSC, XSEDE, and ACCESS)
+* **Contributor**
+  * 2020–Present, Proposals for awarded governmental grants (e.g., DOE) and industrial funding from U.S. and Japan
