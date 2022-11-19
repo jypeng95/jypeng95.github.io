@@ -16,7 +16,7 @@ nav: true
 
 ### Professional Service
 
-* **Conferences**
+* **Conference**
   * 11/2022, **Session Chair**, Symposium "DS01: Modern Materials Thermodynamics," 2022 MRS Fall Meeting, Materials Research Society (Boston, MA, U.S.)
   * 10/2022, **Session Chair**, Symposium "I02: Frontiers of Chemical/Molecular Engineering in Electrochemical Energy Technologies 2: In Honor of Robert Savinell's 70th Birthday," 242nd ECS Meeting, The Electrochemical Society (Atlanta, GA, U.S.)
 * **Independent Reviewer**
@@ -43,7 +43,7 @@ and fostering engagement and inclusivity) and conducted several micro-teaching s
   * 2021, **Organizer, Teaching Journal Club**, Electrochemical Energy Laboratory, MIT
     * Presented key academic research literature on academic teaching and learning and led a group discussion on best practices for teaching strategies (e.g., active learning and attention to equity).
 * **Mentoring**
-    * 2019–Present, **Mentor** to rising graduate and undergraduate students in research labs, Department of Materials Science and Engineering, MIT
+    * 2019–Present, **Mentor** to rising graduate and undergraduate students in research labs, MIT
 
 <br>
 
