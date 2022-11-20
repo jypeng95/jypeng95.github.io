@@ -12,7 +12,7 @@ nav: true
 2. 11/2021, “Leveraging the Inductive Effect to Promote Oxygen Evolution on Oxides and Metal-Hydroxide-Organic Frameworks,” Graduate Student Award Finalist Presentation, **2021 MRS Fall Meeting**, Materials Research
 Society (virtual)
 
-<br>
+---
 
 ### Contributed Talks
 
@@ -29,7 +29,7 @@ Society (virtual)
 11. 10/2019, “Bismuth Substituted Strontium Cobalt Perovskites for Catalyzing Oxygen Evolution,” **234th ECS Meeting** The Electrochemical Society (Atlanta, GA, U.S.)
 12. 11/2018, “Bismuth Substituted Strontium Cobalt Perovskites for Catalyzing Oxygen Evolution,” **2018 MRS Fall Meeting**, Materials Research Society (Boston, MA, U.S.)
 
-<br>
+---
 
 ### Posters
 

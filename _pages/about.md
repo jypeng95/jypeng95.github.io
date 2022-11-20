@@ -2,7 +2,7 @@
 layout: about
 title: About me
 permalink: /
-subtitle: Postdoc @ MIT DMSE
+subtitle: Postdoc @ MIT DMSE | Working on ⚛️ 🤖 🧪 ⚡
 
 profile:
   align: right

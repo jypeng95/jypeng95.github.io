@@ -8,6 +8,7 @@ patentyears: [2021, 2019]
 nav: true
 ---
 <!-- _pages/publications.md -->
+
 <div class="publications">
 
 More information can be found at my <a href="https://scholar.google.com/citations?user=9PY80DQAAAAJ">Google Scholar profile</a>
@@ -25,7 +26,7 @@ More information can be found at my <a href="https://scholar.google.com/citation
 
 ---
 
-## Patents
+### Patents
 
 <div class="publications">
 

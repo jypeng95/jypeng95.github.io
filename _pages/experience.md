@@ -12,7 +12,7 @@ nav: true
 * 2016, **National Scholarship**, Ministry of Education, P.R. China
 * 2013, **Special Freshman Scholarship**, University of Science and Technology of China
 
-<br>
+---
 
 ### Professional Service
 
@@ -27,14 +27,14 @@ nav: true
     * Materials Today Chemistry
     * Journal of Energy Storage
 
-<br>
+---
 
 ### Teaching and Mentoring Experience
 
 * **Teaching**
-  * 2021, **Teaching Assistant**, (Graduate-Level) 2.625 Electrochemical Energy Conversion and Storage: Fundamentals, Materials, and Applications, Massachusetts Institute of Technology (MIT)
+  * 2021, **Teaching Assistant**, (Graduate-Level) "2.625, Electrochemical Energy Conversion and Storage: Fundamentals, Materials, and Applications", Massachusetts Institute of Technology (MIT)
     * Designed and graded problem sets and class projects, conducted recitations and lab demos, and held office hours.
-  * 2020, **Guest Lecturer**, (Undergraduate-Level) 2.000 Explorations in Mechanical Engineering, MIT
+  * 2020, **Guest Lecturer**, (Undergraduate-Level) "2.000 Explorations in Mechanical Engineering, MIT
     * Introduced the fundamentals of fuel cell vehicles and conducted a lab demo on hydrogen fuel cell cars.
 * **Training**
   * 2021, [**Participant, Kaufman Teaching Certificate Program**](https://tll.mit.edu/programming/grad-student-programming/kaufman-teaching-certificate-program), Teaching + Learning Lab, MIT
@@ -45,7 +45,7 @@ and fostering engagement and inclusivity) and conducted several micro-teaching s
 * **Mentoring**
     * 2019–Present, **Mentor** to rising graduate and undergraduate students in research labs, MIT
 
-<br>
+---
 
 ### Diversity, Equity, and Inclusion (DE&I)
 
@@ -62,7 +62,7 @@ and fostering engagement and inclusivity) and conducted several micro-teaching s
   * 2020, [**Organizer, DE&I Journal Club and Group Value Statement**](https://www.rle.mit.edu/eel/diversity-updated), Electrochemical Energy Laboratory, MIT
     * Presented key academic research literature on implicit bias and inequality in science and engineering, led a group discussion on promoting DE&I in academia (e.g., in student admission, faculty hiring, research evaluation, and publication practices), and drafted a value statement for the lab.
 
-<br>
+---
 
 ### Funding Experience
 
