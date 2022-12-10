@@ -29,7 +29,7 @@ nav: true
 
 ---
 
-### Teaching and Mentoring Experience
+### Teaching and Mentoring
 
 * **Teaching**
   * 2021, **Teaching Assistant**, (Graduate-Level) "2.625, Electrochemical Energy Conversion and Storage: Fundamentals, Materials, and Applications", Massachusetts Institute of Technology (MIT)
@@ -64,7 +64,7 @@ and fostering engagement and inclusivity) and conducted several micro-teaching s
 
 ---
 
-### Funding Experience
+### Funding and Grants
 
 * **Lead Author**
   * 2019–Present, Proposals for awarded high-performance computing resources (e.g., NERSC, XSEDE, and ACCESS)
