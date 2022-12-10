@@ -34,7 +34,7 @@ nav: true
 * **Teaching**
   * 2021, **Teaching Assistant**, (Graduate-Level) "2.625, Electrochemical Energy Conversion and Storage: Fundamentals, Materials, and Applications", Massachusetts Institute of Technology (MIT)
     * Designed and graded problem sets and class projects, conducted recitations and lab demos, and held office hours.
-  * 2020, **Guest Lecturer**, (Undergraduate-Level) "2.000 Explorations in Mechanical Engineering, MIT
+  * 2020, **Guest Lecturer**, (Undergraduate-Level) "2.000 Explorations in Mechanical Engineering", MIT
     * Introduced the fundamentals of fuel cell vehicles and conducted a lab demo on hydrogen fuel cell cars.
 * **Training**
   * 2021, [**Participant, Kaufman Teaching Certificate Program**](https://tll.mit.edu/programming/grad-student-programming/kaufman-teaching-certificate-program), Teaching + Learning Lab, MIT
