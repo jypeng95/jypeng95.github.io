@@ -17,6 +17,7 @@ nav: true
 ### Professional Service
 
 * **Conference:**
+  * 02/2023, **Discussion Leader**, Gordon Research Seminar: Nanomaterials for Applications in Energy Technology (Ventura, CA, U.S.)
   * 11/2022, **Session Chair**, Symposium "DS01: Modern Materials Thermodynamics," 2022 MRS Fall Meeting, Materials Research Society (Boston, MA, U.S.)
   * 10/2022, **Session Chair**, Symposium "I02: Frontiers of Chemical/Molecular Engineering in Electrochemical Energy Technologies 2: In Honor of Robert Savinell's 70th Birthday," 242nd ECS Meeting, The Electrochemical Society (Atlanta, GA, U.S.)
 * **Independent Reviewer:**
