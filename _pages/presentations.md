@@ -16,6 +16,7 @@ Society (virtual)
 
 ### Contributed Talks
 
+1. 06/2023, "Design Principles for Transition Metal Nitride Stability and Ammonia Generation in Acid," **28<sup>th</sup> North American Catalysis Society Meeting**, North American Catalysis Society (Providence, RI, U.S.)
 1. 05/2023, "Design Principles for Transition Metal Nitride Stability and Ammonia Generation in Acid," **243<sup>rd</sup> ECS Meeting**, The Electrochemical Society (Boston, MA, U.S.)
 1. 11/2022, "Design Principles for Transition Metal Nitride Stability and Ammonia Generation in Acid," **2022 MRS Fall Meeting**, Materials Research Society (Boston, MA, U.S.)
 1. 11/2022, "Stability Design Principles of Manganese-Based Oxides in Acid," **2022 MRS Fall Meeting**, Materials Research Society (Boston, MA, U.S.)
