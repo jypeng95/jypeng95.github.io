@@ -8,6 +8,7 @@ nav: true
 
 ### Selected Honors and Awards
 
+* 2023, **ENFL Future Investigator Spotlight**, Energy and Fuels Division, American Chemical Society
 * 2021, [**Graduate Student Award**](https://www.mrs.org/careers-advancement/awards/spring-awards/graduate-student-awards/past-recipients), Materials Research Society
 * 2016, **National Scholarship**, Ministry of Education, P.R. China
 * 2013, **Special Freshman Scholarship**, University of Science and Technology of China
