@@ -8,7 +8,7 @@ nav: true
 
 ### Invited Talks
 
-1. 08/2023, "Activity and Stability Design Principles of Transition Metal Compound Electrocatalysts for Deep Decarbonization," ENFL Future Investigator Spotlight Symposium, **ACS Fall 2023 Meeting**, American Chemical Society (San Francisco, CA, U.S.)
+1. 08/2023, "Reactivity vs. Durability: Building Physics-Driven, Quantitative Blueprints of Catalytic Interfaces for Decarbonization," ENFL Future Investigator Spotlight Symposium, **ACS Fall 2023 Meeting**, American Chemical Society (San Francisco, CA, U.S.)
 1. 01/2022, "Leveraging the Inductive Effect to Promote Oxygen Evolution on Oxides and Metal-Hydroxide-Organic Frameworks," Bandarenka Group Seminar, **Department of Physics, Technical University of Munich** (virtual)
 1. 11/2021, "Leveraging the Inductive Effect to Promote Oxygen Evolution on Oxides and Metal-Hydroxide-Organic Frameworks," Graduate Student Award Finalist Presentation, **2021 MRS Fall Meeting**, Materials Research
 Society (virtual)
