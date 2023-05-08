@@ -38,7 +38,7 @@ nav: true
     * Received systematic training on evidence-based teaching (e.g., backward course design, active learning,
 and fostering engagement and inclusivity) and conducted several micro-teaching sessions.
   * 2021, **Organizer, Teaching Journal Club**, Electrochemical Energy Laboratory, MIT
-    * Presented key academic research literature on academic teaching and learning and led a group discussion on best practices for teaching strategies (e.g., active learning and attention to equity).
+    * Presented key research literature on academic teaching and learning and led a group discussion on best practices for teaching strategies (e.g., active learning and attention to equity).
 * **Mentoring:**
     * 2019–Present, **Mentor** to rising graduate and undergraduate students in research labs, MIT
 
@@ -49,7 +49,7 @@ and fostering engagement and inclusivity) and conducted several micro-teaching s
 * **Service:**
   * 2022–Present, [**Mentor, Rainbow Compass Mentorship Program**](https://lbgtq.mit.edu/rainbow-compass-mentorship-program), LBGTQ+ Services, MIT
     * Provided continued guidance and encouragement, offered advice on academic and personal challenges in navigating different environments at MIT, and supported the personal and professional development of LBGTQ+ MIT students.
-  * 2022–Present, [**Participant, DE&I efforts, Department of Materials Science and Engineering**](https://dmse.mit.edu/about/diversity), MIT
+  * 2021–Present, [**Participant, DE&I efforts, Department of Materials Science and Engineering**](https://dmse.mit.edu/about/diversity), MIT
     * Conducted evaluations on candidates with a focus on DE&I in the search for faculty and departmental head and engaged in discussion sessions to give feedback in departmental community-wide convenings about DE&I initiatives.
   * 2018–2020, **Cultural Chair and Inter-Cultural Exchange Chair**, Sidney-Pacific Graduate Residence, MIT
     * Organized culturally and internationally themed events in MIT communities to foster a sense of inclusion for international students.
