@@ -12,6 +12,8 @@ nav: true
 1. 01/2022, "Leveraging the Inductive Effect to Promote Oxygen Evolution on Oxides and Metal-Hydroxide-Organic Frameworks," Bandarenka Group Seminar, **Department of Physics, Technical University of Munich** (virtual)
 1. 11/2021, "Leveraging the Inductive Effect to Promote Oxygen Evolution on Oxides and Metal-Hydroxide-Organic Frameworks," Graduate Student Award Finalist Presentation, **2021 MRS Fall Meeting**, Materials Research
 Society (virtual)
+1. 01/2020, "Electronic Descriptors for Oxide Stability in Acid," **ElectroCat Consortium Meeting**, U.S. Department of Energy (Santa Fe, NM, U.S.)
+1. 12/2019, "Designing Perovskites for Oxygen Evolution," Advances in Anion Exchange Membranes: Materials, Processes and Devices Workshop, **Northeastern University** (Boston, MA, U.S.)
 
 ---
 
@@ -27,8 +29,6 @@ Society (virtual)
 1. 08/2022, "Stability Design Principles of Manganese-Based Oxides in Acid," **ACS Fall 2022 Meeting**, American Chemical Society (Chicago, IL, U.S.)
 1. 11/2021, "Leveraging the Inductive Effect to Promote Oxygen Evolution on Oxides and Metal-Hydroxide-Organic Frameworks," **2021 MRS Fall Meeting**, Materials Research Society (Boston, MA, U.S.)
 1. 10/2020, "Stability Design Principles of Mn-Based Oxides for Acidic Electrolytes," **Pacific Rim Meeting on Electrochemical and Solid-State Science (PRiME 2020)**, The Electrochemical Society (virtual)
-1. 01/2020, "Electronic Descriptors for Oxide Stability in Acid," **ElectroCat Consortium Meeting**, U.S. Department of Energy (Santa Fe, NM, U.S.)
-1. 12/2019, "Designing Perovskites for Oxygen Evolution," Advances in Anion Exchange Membranes: Materials, Processes and Devices Workshop, **Northeastern University** (Boston, MA, U.S.)
 1. 10/2019, "Bismuth Substituted Strontium Cobalt Perovskites for Catalyzing Oxygen Evolution," **234<sup>th</sup> ECS Meeting** The Electrochemical Society (Atlanta, GA, U.S.)
 1. 11/2018, "Bismuth Substituted Strontium Cobalt Perovskites for Catalyzing Oxygen Evolution," **2018 MRS Fall Meeting**, Materials Research Society (Boston, MA, U.S.)
 
