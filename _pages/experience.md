@@ -47,9 +47,9 @@ and fostering engagement and inclusivity) and conducted several micro-teaching s
 ### Diversity, Equity, and Inclusion (DE&I)
 
 * **Service:**
-  * 2022–2023, [**Mentor, Rainbow Compass Mentorship Program**](https://lbgtq.mit.edu/rainbow-compass-mentorship-program), LBGTQ+ Services, MIT
+  * 2022–Present, [**Mentor, Rainbow Compass Mentorship Program**](https://lbgtq.mit.edu/rainbow-compass-mentorship-program), LBGTQ+ Services, MIT
     * Provided continued guidance and encouragement, offered advice on academic and personal challenges in navigating different environments at MIT, and supported the personal and professional development of LBGTQ+ MIT students.
-  * 2021–2023, [**Participant, DE&I efforts, Department of Materials Science and Engineering**](https://dmse.mit.edu/about/diversity), MIT
+  * 2022–Present, [**Participant, DE&I efforts, Department of Materials Science and Engineering**](https://dmse.mit.edu/about/diversity), MIT
     * Conducted evaluations on candidates with a focus on DE&I in the search for faculty and departmental head and engaged in discussion sessions to give feedback in departmental community-wide convenings about DE&I initiatives.
   * 2018–2020, **Cultural Chair and Inter-Cultural Exchange Chair**, Sidney-Pacific Graduate Residence, MIT
     * Organized culturally and internationally themed events in MIT communities to foster a sense of inclusion for international students.
