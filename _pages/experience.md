@@ -35,7 +35,7 @@ nav: true
 ### Diversity, Equity, and Inclusion (DEI)
 
 * 2022–Present, **Mentor, Rainbow Compass Mentorship Program**, LBGTQ+ Services, MIT
-* 2021–Present, **Contributor, DEI initiatives**, Department of Materials Science and Engineering, MIT
+* 2021–Present, **Contributor, DEI Initiatives**, Department of Materials Science and Engineering, MIT
 * 2021, **Trainee, Teaching for Belonging Workshop**, Teaching + Learning Lab, MIT
 * 2020, **Organizer, DEI Journal Club and Group Value Statement**, Electrochemical Energy Laboratory, MIT
 * 2018–2020, **Cultural and Inter-Cultural Exchange Chair**, Sidney-Pacific Graduate Residence, MIT
