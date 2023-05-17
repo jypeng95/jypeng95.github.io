@@ -18,6 +18,8 @@ nav: true
 
 ### Contributed Talks
 
+1. 08/2023, "Graph Neural Networks to Predict Ordering-Dependent Properties from Unrelaxed Multicomponent Crystal Structures," **ACS Fall 2023 Meeting**, American Chemical Society, San Francisco, CA, U.S.
+1. 08/2023, "Data-Driven Design Principles of Cation Ordering in Multicomponent Perovskite Oxides," **ACS Fall 2023 Meeting**, American Chemical Society, San Francisco, CA, U.S.
 1. 06/2023, "Design Principles for Transition Metal Nitride Stability and Ammonia Generation in Acid," **28<sup>th</sup> North American Catalysis Society Meeting**, North American Catalysis Society, Providence, RI, U.S.
 1. 05/2023, "Design Principles for Transition Metal Nitride Stability and Ammonia Generation in Acid," **243<sup>rd</sup> ECS Meeting**, The Electrochemical Society, Boston, MA, U.S.
 1. 11/2022, "Design Principles for Transition Metal Nitride Stability and Ammonia Generation in Acid," **2022 MRS Fall Meeting**, Materials Research Society, Boston, MA, U.S.
