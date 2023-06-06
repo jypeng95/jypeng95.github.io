@@ -9,6 +9,7 @@ nav: true
 ### Invited Talks
 
 1. 08/2023, "Reactivity vs. Durability: Building Physics-Driven, Quantitative Blueprints of Catalytic Interfaces for Decarbonization," ENFL Future Investigator Spotlight Symposium, **ACS Fall 2023 Meeting**, American Chemical Society, San Francisco, CA, U.S.
+1. 07/2023, "Bridging Physics-Informed and Data-Driven Materials Designs for Deep Decarbonization," Distinguished Young Scholars Seminar, Department of Chemical Engineering, **University of Washington**, Seattle, WA, U.S.
 1. 01/2022, "Leveraging the Inductive Effect to Promote Oxygen Evolution on Oxides and Metal Hydroxide–Organic Frameworks," Bandarenka Group Seminar (virtual), Department of Physics, **Technical University of Munich**, Munich, Germany
 1. 11/2021, "Leveraging the Inductive Effect to Promote Oxygen Evolution on Oxides and Metal Hydroxide–Organic Frameworks," Graduate Student Award Finalist Presentation (virtual), **2021 MRS Fall Meeting**, Materials Research Society, Boston, MA, U.S.
 1. 01/2020, "Stability Design Principles of Mn-Based Oxides for Acidic Electrolytes," **ElectroCat Consortium Meeting**, U.S. Department of Energy, Santa Fe, NM, U.S.
@@ -18,7 +19,7 @@ nav: true
 
 ### Contributed Talks
 
-1. 08/2023, "Graph Neural Networks to Predict Ordering-Dependent Properties from Unrelaxed Multicomponent Crystal Structures," **ACS Fall 2023 Meeting**, American Chemical Society, San Francisco, CA, U.S.
+1. 08/2023, "Graph Neural Networks to Predict Ordering-Dependent Properties from Multicomponent Crystal Structures," **ACS Fall 2023 Meeting**, American Chemical Society, San Francisco, CA, U.S.
 1. 08/2023, "Data-Driven Design Principles of Cation Ordering in Multicomponent Perovskite Oxides," **ACS Fall 2023 Meeting**, American Chemical Society, San Francisco, CA, U.S.
 1. 06/2023, "Design Principles for Transition Metal Nitride Stability and Ammonia Generation in Acid," **28<sup>th</sup> North American Catalysis Society Meeting**, North American Catalysis Society, Providence, RI, U.S.
 1. 05/2023, "Design Principles for Transition Metal Nitride Stability and Ammonia Generation in Acid," **243<sup>rd</sup> ECS Meeting**, The Electrochemical Society, Boston, MA, U.S.
