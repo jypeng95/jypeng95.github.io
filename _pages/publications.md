@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description:
-years: [preprint, in press, 2023, 2022, 2021, 2020, 2019, 2017]
+years: [preprint, 2023, 2022, 2021, 2020, 2019, 2017]
 patentyears: [pending, granted]
 nav: true
 ---
