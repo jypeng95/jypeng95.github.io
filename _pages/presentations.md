@@ -19,6 +19,9 @@ nav: true
 
 ### Contributed Talks
 
+1. 11/2023, "Reactivity vs. Durability: Building Physics-Driven, Quantitative Blueprints of Catalytic Interfaces for Decarbonization," **2023 AIChE Annual Meeting**, American Institute of Chemical Engineers, Orlando, FL, U.S.
+1. 11/2023, "Graph Neural Networks to Predict Ordering-Dependent Properties from Multicomponent Crystal Structures," **2023 AIChE Annual Meeting**, American Institute of Chemical Engineers, Orlando, FL, U.S.
+1. 11/2023, "Data-Driven, Physics-Informed Descriptors of Cation Ordering in Multicomponent Perovskite Oxides," **2023 AIChE Annual Meeting**, American Institute of Chemical Engineers, Orlando, FL, U.S.
 1. 08/2023, "Graph Neural Networks to Predict Ordering-Dependent Properties from Multicomponent Crystal Structures," **ACS Fall 2023 Meeting**, American Chemical Society, San Francisco, CA, U.S.
 1. 08/2023, "Data-Driven, Physics-Informed Descriptors of Cation Ordering in Multicomponent Perovskite Oxides," **ACS Fall 2023 Meeting**, American Chemical Society, San Francisco, CA, U.S.
 1. 06/2023, "Design Principles for Transition Metal Nitride Stability and Ammonia Generation in Acid," **28<sup>th</sup> North American Catalysis Society Meeting**, North American Catalysis Society, Providence, RI, U.S.
