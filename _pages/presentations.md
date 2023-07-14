@@ -19,7 +19,7 @@ nav: true
 
 ### Contributed Talks
 
-1. 11/2023, "Reactivity vs. Durability: Building Physics-Driven, Quantitative Blueprints of Catalytic Interfaces for Decarbonization," **2023 AIChE Annual Meeting**, American Institute of Chemical Engineers, Orlando, FL, U.S.
+1. 11/2023, "Reactivity vs. Durability: Building Physics-Driven, Quantitative Blueprints of Catalytic Interfaces for Decarbonization," Electrochemical Fundamentals: Faculty Candidate Session, **2023 AIChE Annual Meeting**, American Institute of Chemical Engineers, Orlando, FL, U.S.
 1. 11/2023, "Graph Neural Networks to Predict Ordering-Dependent Properties from Multicomponent Crystal Structures," **2023 AIChE Annual Meeting**, American Institute of Chemical Engineers, Orlando, FL, U.S.
 1. 11/2023, "Data-Driven, Physics-Informed Descriptors of Cation Ordering in Multicomponent Perovskite Oxides," **2023 AIChE Annual Meeting**, American Institute of Chemical Engineers, Orlando, FL, U.S.
 1. 08/2023, "Graph Neural Networks to Predict Ordering-Dependent Properties from Multicomponent Crystal Structures," **ACS Fall 2023 Meeting**, American Chemical Society, San Francisco, CA, U.S.
@@ -41,6 +41,7 @@ nav: true
 
 ### Posters
 
+1. 11/2023, "Bridging Physics-Informed And Data-Driven Materials Designs For Deep Decarbonization," Meet the Faculty Candidates Poster Session, **2023 AIChE Annual Meeting**, American Institute of Chemical Engineers, Orlando, FL, U.S.
 1. 03/2023, "Global Optimization of Multicomponent Oxide Catalysts for OER/ORR," **ARPA-E Energy Innovation Summit**, U.S. Department of Energy, Washington, DC, U.S.
 1. 02/2023, "Design Principles for Transition Metal Nitride Stability and Ammonia Generation in Acid," **Gordon Research Conference: Nanomaterials for Applications in Energy Technology**, Ventura, CA, U.S.
 1. 08/2019, "Bismuth Substituted Strontium Cobalt Perovskites for Catalyzing Oxygen Evolution," **SUNCAT Summer Institute**, SLAC National Accelerator Laboratory, Menlo Park, CA, U.S.
