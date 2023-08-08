@@ -11,8 +11,8 @@ nav: true
 1. 10/2024, "Bridging Physics-Informed and Data-Driven Materials Designs for Deep Decarbonization," **10<sup>th</sup> IUPAC International Conference on Green Chemistry**, International Union of Pure and Applied Chemistry, Beijing, China
 1. 08/2023, "Reactivity vs. Durability: Building Physics-Driven, Quantitative Blueprints of Catalytic Interfaces for Decarbonization," ENFL Future Investigator Spotlight Symposium, **ACS Fall 2023 Meeting**, American Chemical Society, San Francisco, CA, U.S.
 1. 07/2023, "Bridging Physics-Informed and Data-Driven Materials Designs for Deep Decarbonization," Distinguished Young Scholars Seminar, Department of Chemical Engineering, **University of Washington**, Seattle, WA, U.S.
-1. 01/2022, "Leveraging the Inductive Effect to Promote Oxygen Evolution on Oxides and Metal Hydroxide–Organic Frameworks," Bandarenka Group Seminar (virtual), Department of Physics, **Technical University of Munich**, Munich, Germany
-1. 11/2021, "Leveraging the Inductive Effect to Promote Oxygen Evolution on Oxides and Metal Hydroxide–Organic Frameworks," Graduate Student Award Finalist Presentation (virtual), **2021 MRS Fall Meeting**, Materials Research Society, Boston, MA, U.S.
+1. 01/2022, "Leveraging the Inductive Effect to Promote Oxygen Evolution on Oxides and Metal Hydroxide–Organic Frameworks," Bandarenka Group Seminar (Virtual), Department of Physics, **Technical University of Munich**, Munich, Germany
+1. 11/2021, "Leveraging the Inductive Effect to Promote Oxygen Evolution on Oxides and Metal Hydroxide–Organic Frameworks," Graduate Student Award Finalist Presentation (Virtual), **2021 MRS Fall Meeting**, Materials Research Society, Boston, MA, U.S.
 1. 01/2020, "Stability Design Principles of Mn-Based Oxides for Acidic Electrolytes," **ElectroCat Consortium Meeting**, U.S. Department of Energy, Santa Fe, NM, U.S.
 1. 12/2019, "Bismuth Substituted Strontium Cobalt Perovskites for Catalyzing Oxygen Evolution," Advances in Anion Exchange Membranes: Materials, Processes and Devices Workshop, **Northeastern University**, Boston, MA, U.S.
 
@@ -34,7 +34,7 @@ nav: true
 1. 08/2022, "Stability Design Principles of Manganese-Based Oxides in Acid," **ACS Fall 2022 Meeting**, American Chemical Society, Chicago, IL, U.S.
 1. 08/2022, "Leveraging the Inductive Effect to Promote Oxygen Evolution on Oxides and Metal Hydroxide–Organic Frameworks," **ACS Fall 2022 Meeting**, American Chemical Society, Chicago, IL, U.S.
 1. 11/2021, "Leveraging the Inductive Effect to Promote Oxygen Evolution on Oxides and Metal Hydroxide–Organic Frameworks," **2021 MRS Fall Meeting**, Materials Research Society, Boston, MA, U.S.
-1. 10/2020, "Stability Design Principles of Mn-Based Oxides for Acidic Electrolytes," **PRiME 2020** (virtual), The Electrochemical Society, U.S.
+1. 10/2020, "Stability Design Principles of Mn-Based Oxides for Acidic Electrolytes," **PRiME 2020** (Virtual), The Electrochemical Society, U.S.
 1. 10/2019, "Bismuth Substituted Strontium Cobalt Perovskites for Catalyzing Oxygen Evolution," **234<sup>th</sup> ECS Meeting** The Electrochemical Society, Atlanta, GA, U.S.
 1. 11/2018, "Bismuth Substituted Strontium Cobalt Perovskites for Catalyzing Oxygen Evolution," **2018 MRS Fall Meeting**, Materials Research Society, Boston, MA, U.S.
 

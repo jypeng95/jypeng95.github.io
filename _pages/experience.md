@@ -27,7 +27,7 @@ nav: true
 
 ### Teaching Experience
 
-* 2021, **Teaching Assistant**, "2.625/3.625/10.625 Electrochemical Energy Conversion and Storage: Fundamentals, Materials, and Applications," (Cross-Listed) Departments of Mechanical Engineering, Materials Science and Engineering, and Chemical Engineering, MIT
+* 2021, **Teaching Assistant**, "2.625/3.625/10.625 Electrochemical Energy Conversion and Storage: Fundamentals, Materials, and Applications," Cross-Listed in Departments of Mechanical Engineering, Materials Science and Engineering, and Chemical Engineering, MIT
 * 2021, **Trainee, Kaufman Teaching Certificate Program**, Teaching + Learning Lab, MIT
 * 2021, **Organizer, Teaching Journal Club**, Electrochemical Energy Laboratory, MIT
 * 2020, **Guest Lecturer**, "2.000 Explorations in Mechanical Engineering," Department of Mechanical Engineering, MIT
