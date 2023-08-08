@@ -8,8 +8,9 @@ nav: true
 
 ### Selected Honors and Awards
 
-* 2023, **Distinguished Young Scholars Seminar**, Department of Chemical Engineering, University of Washington
-* 2023, **ENFL Future Investigator Spotlight**, Energy and Fuels Division, American Chemical Society
+* 2023, **IUPAC-Zhejiang NHU International Award for Advancements in Green Chemistry for Young Chemists**, International Union of Pure and Applied Chemistry
+* 2023, **Distinguished Young Scholar**, Department of Chemical Engineering, University of Washington
+* 2023, **ENFL Future Investigator**, Energy and Fuels Division, American Chemical Society
 * 2021, **Graduate Student Award**, Materials Research Society
 
 ---

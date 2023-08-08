@@ -8,6 +8,7 @@ nav: true
 
 ### Invited Talks
 
+1. 10/2024, "Bridging Physics-Informed and Data-Driven Materials Designs for Deep Decarbonization," **10<sup>th</sup> IUPAC International Conference on Green Chemistry**, International Union of Pure and Applied Chemistry, Beijing, China
 1. 08/2023, "Reactivity vs. Durability: Building Physics-Driven, Quantitative Blueprints of Catalytic Interfaces for Decarbonization," ENFL Future Investigator Spotlight Symposium, **ACS Fall 2023 Meeting**, American Chemical Society, San Francisco, CA, U.S.
 1. 07/2023, "Bridging Physics-Informed and Data-Driven Materials Designs for Deep Decarbonization," Distinguished Young Scholars Seminar, Department of Chemical Engineering, **University of Washington**, Seattle, WA, U.S.
 1. 01/2022, "Leveraging the Inductive Effect to Promote Oxygen Evolution on Oxides and Metal Hydroxide–Organic Frameworks," Bandarenka Group Seminar (virtual), Department of Physics, **Technical University of Munich**, Munich, Germany
