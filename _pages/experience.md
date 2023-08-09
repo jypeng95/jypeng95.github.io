@@ -19,6 +19,7 @@ nav: true
 
 * **Independent Reviewer**,
 *Nature Computational Science* | *Cell Reports Physical Science* | *iScience* | *Catalysis Science & Technology* | *Materials Today Chemistry* | *Journal of Energy Storage* | *Materials Reports: Energy*
+* 03/2024, **Symposium Organizer**, Symposium "Data-Driven Catalyst Design: From Laptop to Lab Bench," ACS Spring 2024 Meeting, American Chemical Society, New Orleans, LA, U.S.
 * 02/2023, **Discussion Leader**, Gordon Research Seminar: Nanomaterials for Applications in Energy Technology, Ventura, CA, U.S.
 * 11/2022, **Session Chair**, Symposium "DS01: Modern Materials Thermodynamics," 2022 MRS Fall Meeting, Materials Research Society, Boston, MA, U.S.
 * 10/2022, **Session Chair**, Symposium "I02: Frontiers of Chemical/Molecular Engineering in Electrochemical Energy Technologies 2: In Honor of Robert Savinell's 70<sup>th</sup> Birthday," 242<sup>nd</sup> ECS Meeting, The Electrochemical Society, Atlanta, GA, U.S.
