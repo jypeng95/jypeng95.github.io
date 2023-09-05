@@ -2,7 +2,7 @@
 layout: about
 title: About me
 permalink: /
-subtitle: Postdoc @ MIT, working on ⚛️ 🤖 🧪 ⚡
+subtitle: Postdoc @ MIT, working on ⚛️🤖⚡🧪
 
 profile:
   align: right
