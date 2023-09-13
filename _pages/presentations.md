@@ -16,7 +16,7 @@ nav: true
 1. 01/2020, "Stability Design Principles of Mn-Based Oxides for Acidic Electrolytes," **ElectroCat Consortium Meeting**, U.S. Department of Energy, Santa Fe, NM, U.S.
 1. 12/2019, "Bismuth Substituted Strontium Cobalt Perovskites for Catalyzing Oxygen Evolution," Advances in Anion Exchange Membranes: Materials, Processes and Devices Workshop, **Northeastern University**, Boston, MA, U.S.
 
----
+<br>
 
 ### Contributed Talks
 
@@ -40,7 +40,7 @@ nav: true
 1. 10/2019, "Bismuth Substituted Strontium Cobalt Perovskites for Catalyzing Oxygen Evolution," **234<sup>th</sup> ECS Meeting** The Electrochemical Society, Atlanta, GA, U.S.
 1. 11/2018, "Bismuth Substituted Strontium Cobalt Perovskites for Catalyzing Oxygen Evolution," **2018 MRS Fall Meeting**, Materials Research Society, Boston, MA, U.S.
 
----
+<br>
 
 ### Posters
 
