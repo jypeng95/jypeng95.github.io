@@ -8,6 +8,7 @@ nav: true
 
 ### Selected Honors and Awards
 
+* 2023, **Rising Stars in Materials Science and Engineering**, Department of Materials Science and Engineering, Carnegie Mellon University
 * 2023, **IUPAC-Zhejiang NHU International Award for Advancements in Green Chemistry for Young Chemists**, International Union of Pure and Applied Chemistry
 * 2023, **Distinguished Young Scholar**, Department of Chemical Engineering, University of Washington
 * 2023, **ENFL Future Investigator**, Division of Energy and Fuels, American Chemical Society
