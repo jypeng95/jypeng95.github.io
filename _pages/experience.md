@@ -30,7 +30,8 @@ nav: true
 
 ### Teaching Experience
 
-* 2021, **Teaching Assistant**, "Electrochemical Energy Conversion and Storage: Fundamentals, Materials, and Applications," Cross-Listed in Department of Mechanical Engineering, Department of Materials Science and Engineering, and Department of Chemical Engineering, MIT
+* 2023, **Guest Lecturer**, "Atomistic Computer Modeling of Materials," Department of Materials Science and Engineering, MIT
+* 2021, **Teaching Assistant**, "Electrochemical Energy Conversion and Storage: Fundamentals, Materials, and Applications," Department of Chemical Engineering and Department of Mechanical Engineering, MIT
 * 2021, **Trainee, Kaufman Teaching Certificate Program**, Teaching + Learning Lab, MIT
 * 2021, **Organizer, Teaching Journal Club**, Electrochemical Energy Laboratory, MIT
 * 2020, **Guest Lecturer**, "Explorations in Mechanical Engineering," Department of Mechanical Engineering, MIT
