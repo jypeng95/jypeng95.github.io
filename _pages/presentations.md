@@ -44,7 +44,8 @@ nav: true
 
 ### Posters
 
-1. 11/2023, "Bridging Physics-Informed And Data-Driven Materials Designs For Deep Decarbonization," Meet the Faculty Candidates Poster Session, **2023 AIChE Annual Meeting**, American Institute of Chemical Engineers, Orlando, FL, U.S.
+1. 11/2023, "Global Optimization of Electrocatalytic Materials to Decarbonize Chemical Transformations," Meet the New Faculty Candidate Poster Session, **2023 MRS Fall Meeting**, Materials Research Society, Boston, MA, U.S.
+1. 11/2023, "Bridging Physics-Informed And Data-Driven Materials Designs For Deep Decarbonization," Meet the Faculty and Post-Doc Candidates Poster Session, **2023 AIChE Annual Meeting**, American Institute of Chemical Engineers, Orlando, FL, U.S.
 1. 03/2023, "Global Optimization of Multicomponent Oxide Catalysts for OER/ORR," **ARPA-E Energy Innovation Summit**, U.S. Department of Energy, Washington, DC, U.S.
 1. 02/2023, "Design Principles for Transition Metal Nitride Stability and Ammonia Generation in Acid," **Gordon Research Conference: Nanomaterials for Applications in Energy Technology**, Ventura, CA, U.S.
 1. 08/2019, "Bismuth Substituted Strontium Cobalt Perovskites for Catalyzing Oxygen Evolution," **SUNCAT Summer Institute**, SLAC National Accelerator Laboratory, Menlo Park, CA, U.S.
