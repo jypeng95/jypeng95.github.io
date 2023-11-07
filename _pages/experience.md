@@ -19,7 +19,7 @@ nav: true
 ### Professional Service
 
 * **Independent Reviewer**,
-*Nature Computational Science* | *Journal of Physical Chemistry* | *ACS Catalysis* | *Cell Reports Physical Science* | *iScience* | *Catalysis Science & Technology* | *Materials Today Chemistry* | *Journal of Energy Storage* | *Materials Reports: Energy*
+*Nature Computational Science* | *ACS Catalysis* | *Journal of Physical Chemistry* | *Cell Reports Physical Science* | *iScience* | *Catalysis Science & Technology* | *Materials Today Chemistry* | *Journal of Energy Storage* | *Materials Reports: Energy*
 * 03/2024, **Symposium Organizer**, Symposium "CATL: Data-Driven Catalyst Design: From Laptop to Lab Bench," ACS Spring 2024 Meeting, American Chemical Society, New Orleans, LA, U.S.
 * 08/2023, **Judging Committee Member**, ENFL Student Award Competition, ACS Fall 2023 Meeting, American Chemical Society, San Francisco, CA, U.S.
 * 02/2023, **Discussion Leader**, Gordon Research Seminar: Nanomaterials for Applications in Energy Technology, Ventura, CA, U.S.
