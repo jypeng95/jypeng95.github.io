@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 description:
 years: [2024, 2023, 2022, 2021, 2020, 2019, 2017]
-patentyears: [Pending, Granted]
+patentyears: [Granted]
 nav: true
 ---
 <!-- _pages/publications.md -->
