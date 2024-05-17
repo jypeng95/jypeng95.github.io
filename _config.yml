@@ -13,7 +13,7 @@ footer_text: >
 keywords: # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚡ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: > # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://jypeng95.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -67,7 +67,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: peng_jiayu # your Twitter handle
-linkedin_username: # your LinkedIn user name
+linkedin_username: jiayu-peng # your LinkedIn user name
 scholar_userid: 9PY80DQAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
@@ -236,7 +236,7 @@ display_tags: # this tags will be dispalyed on the front page of your blog
 
 scholar:
 
-  last_name: [Peng, Peng†, Peng*]
+  last_name: [Peng, Peng†, Peng*, Peng†*, Peng*†]
   first_name: [Jiayu, J.]
 
   style: nature

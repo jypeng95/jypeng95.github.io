@@ -2,7 +2,7 @@
 layout: about
 title: About me
 permalink: /
-subtitle: Postdoc @ MIT, working on ⚛️🤖⚡🧪
+subtitle: Incoming Asst. Prof. @ University at Buffalo, working on ⚛️ + 🤖 →⚡ + 🧪
 
 profile:
   align: right
@@ -16,8 +16,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a Postdoctoral Associate in the [Department of Materials Science and Engineering (DMSE)](https://dmse.mit.edu/) at the [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/), supervised by [Prof. Rafael Gómez-Bombarelli](https://gomezbombarelli.mit.edu/). I obtained my Ph.D. from MIT DMSE in 2022, advised by [Prof. Yang Shao-Horn](https://www.rle.mit.edu/eel/). Prior to MIT, I graduated with a B.Sc. in Applied Physics from the [University of Science and Technology of China](https://en.ustc.edu.cn/) in 2017.
+I am an incoming Assistant Professor (starting Jan. 2025) in the [Department of Materials Design and Innovation](https://engineering.buffalo.edu/materials-design-innovation.html) at the [University at Buffalo](https://www.buffalo.edu/). Currently, I am a Postdoctoral Associate in the [Department of Materials Science and Engineering](https://dmse.mit.edu/) at the [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/) with Prof. Rafael Gómez-Bombarelli. I obtained my Ph.D. in Materials Science and Engineering from MIT in 2022, advised by Prof. Yang Shao-Horn. I graduated with a B.Sc. in Applied Physics from the [University of Science and Technology of China](https://en.ustc.edu.cn/) in 2017.
 
-During my Ph.D., I developed **physics-driven guiding principles to design new catalysts for clean energy technologies** that reduce carbon emissions, generate renewable electricity, and produce green chemicals and fuels. I combined advanced characterization techniques with atomistic simulations to uncover key material parameters governing the [catalytic activity](https://doi.org/10.1038/s41563-022-01199-0) and [intrinsic stability](https://doi.org/10.1016/j.joule.2022.11.011) of transitional metal compound catalysts, revealing physical rules underlying their performance and highlighting underexplored directions for catalyst optimization.
+My prior work has led to early-career awards and recognitions, such as the [Graduate Student Award](https://www.mrs.org/careers-advancement/awards/spring-awards/graduate-student-awards/past-recipients) from the Materials Research Society and the [IUPAC-Zhejiang NHU International Award for Advancements in Green Chemistry for Young Chemists](https://iupac.org/awardees-of-the-2023-iupac-zhejiang-nhu-international-award-for-advancements-in-green-chemistry/) from the International Union of Pure and Applied Chemistry.
 
-My current research focuses on **physics-informed, data-driven materials design for decarbonization**. I aim to [bypass traditional research paradigms](https://doi.org/10.1038/s41578-022-00466-5) that largely rely on chemical intuition and serendipity, which can hardly grapple with balancing the reactivity and durability of functional interfaces and elucidating their intricate, dynamic nature. Combining physical chemistry, descriptors, machine learning, atomistic simulations, and experimental validation, I will couple physics-informed approaches and bleeding-edge data-driven tools to boost materials design out of an immense configurational space of compositions and structures and accelerate their global optimization.
+My research group will center on understanding and resolving the formidable structural, compositional, and mechanistic complexities of materials and interfaces under harsh electrochemical reaction conditions. We will build physics-based and data-driven machine-learning methods that inherently capture the fundamental laws of materials thermodynamics and surface kinetics from atomistic simulations and electrochemistry. Through this research program, we aim to empower all members to collectively construct AI-facilitated, materials-centric solutions to combat the most recalcitrant societal challenges in sustainability and decarbonization.
